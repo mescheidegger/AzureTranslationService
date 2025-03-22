@@ -1,11 +1,7 @@
 ## Third-Party Dependencies
 This project uses third-party libraries and external APIs (e.g., Azure Translation Services). Their respective licenses and terms of service apply. This project is licensed under MIT, but usage of third-party services must comply with their own terms.
 
-The entire codebase for this project was generated through prompt engineering with GPT4 as a proof of concept for leveraging a Microsoft Azure Translation service. 
-
 The client side was built using create-react-app. The server side is Node with Express for routing.
-
-All code was written by AI.
 
 1. Create a MS Azure Subscription
 2. Create a Translator Service under your description
